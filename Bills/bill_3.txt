@@ -1,0 +1,5 @@
+Bill for Order : 3
+Table number : 1
+Date : Thu May 14 10:35:21 EEST 2020
+Products : [Cartofi, Cartofi, Fanta, Fanta]
+Total : 14.0
